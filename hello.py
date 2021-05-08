@@ -5,7 +5,6 @@ result = add(1,2)
 
 print("This is the sum: " + str(1) + " " + str(2) + " " + str(result))
 
-#import boto3
 import os
 
 try:
