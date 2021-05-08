@@ -7,7 +7,7 @@ format:
     
 lint:
 	pylint --disable=R,C hello.py
-	#pylint --disable=R,C import_test.py
+	pylint --disable=R,C test_hello.py
 	#pylint --disable=R,C LoadBasketballCSV.py
 
 test:
