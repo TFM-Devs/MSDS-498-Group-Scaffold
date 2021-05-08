@@ -1,0 +1,15 @@
+pylint
+pytest
+click
+black
+pytest-cov
+pandas
+nbval
+click
+flask
+requests
+numpy
+seaborn
+sklearn
+boto3
+ipython
