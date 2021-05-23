@@ -9,7 +9,7 @@ A sample call to pull AlphaVantage RSI is below. You can see that the API calls 
 
 ![Group Pic 1](https://user-images.githubusercontent.com/67444022/119279351-02dc6a00-bbe0-11eb-88ea-db669ea04a54.PNG)
 
-Using AWS lambda the team created a lambda function that ran calls for RSI for a few different stocks. After some transformation the results were loaded into a .csv file that was automatically created in a Amazon S3 storage bucket. Below is a sample of code from this lambda function. 
+Using AWS lambda the team created a lambda function that ran calls for RSI for a few different stocks. After some transformation the results were loaded into a .csv file that was automatically created in a Amazon S3 storage bucket. Below is a sample of the python functions that were written to power the AWS lambda function. 
 
 ![Group Pic 2](https://user-images.githubusercontent.com/67444022/119279640-db869c80-bbe1-11eb-82a3-7f50e53f4942.PNG)
 
